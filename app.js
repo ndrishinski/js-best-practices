@@ -15,6 +15,12 @@ const address = {
     city: 'Boston'
 };
 
+const commas = {
+      method: 'get'
+    , url: 'hello'
+    , somethingElse: 'hi'
+}
+
 function newFunc() {
     console.log('proper semi-colon usage');
 };
